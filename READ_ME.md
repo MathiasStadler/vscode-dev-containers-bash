@@ -71,4 +71,6 @@ docker --version
 - Tip: If you want to edit the container's contents or settings before opening the folder, you can run Dev Containers: Add Dev Container Configuration Files... instead
 
 1. press [F1] and paste ```Dev Containers: Add Dev Container Configuration Files``` in
-2. select your dev-container type/version
+2. select your dev-container type/version => ubuntu for example
+3. chose additional futures
+4. start the container
