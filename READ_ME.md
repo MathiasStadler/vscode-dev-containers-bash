@@ -73,4 +73,6 @@ docker --version
 1. press [F1] and paste ```Dev Containers: Add Dev Container Configuration Files``` in
 2. select your dev-container type/version => ubuntu for example
 3. chose additional futures
-4. start the container
+4. start the container => press [F1] and choose => "Dev Containers: OpenFolder in Container"
+5. select the project folder in the new windows
+6. open log and show the progress
